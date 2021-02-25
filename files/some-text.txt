@@ -1,0 +1,8 @@
+Hello world!
+Hello world!
+12
+12 10 0x00f8
+12 10 0x00f8
+Man walked on the moon on: 07 29 196912 10 0x00f8
+Man walked on the moon on: July Sunday 196912 10 0x00f8
+Man walked on the moon on: July Sunday 1969

@@ -1,0 +1,6 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(œÖª8¬¢¢›ı.
+]	java:S125"<This block of commented-out lines of code should be removed.(ìÈµßşÿÿÿÿ8Üş‹›ı.
+X	java:S125"<This block of commented-out lines of code should be removed.(ÂÿÊ8Ğ¸›ı.
+V
+java:S1128"4Remove this unused import 'java.awt.print.Pageable'.(¾Ğıøÿÿÿÿ8˜£œ›ı.
